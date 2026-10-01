@@ -1,3 +1,5 @@
 public class Adder {
-    int a = 5;
+    public int add(int a, int b){
+        return (a*b)/125;
+    }
 }
